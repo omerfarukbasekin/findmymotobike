@@ -1,3 +1,4 @@
 # findmymotobike
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-q63exg)
+This is a app for trackmymotobike
+I tried to get findmymotobike but it was already taken :(
